@@ -1,0 +1,21 @@
+{
+  "name": "BRO CAT",
+  "symbol": "BRC",
+  "description": "Structured Market Tokens",
+  "image": "https://raw.githubusercontent.com/Aquas2/Anthropic-/refs/heads/main/Anthropic.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Aquas2/Anthropic-/refs/heads/main/Anthropic.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "EDoJJUz9SSrQJ5tmwHKLbZT6Rcospjd4ucaJrkAKF2iK",
+        "share": 100
+      }
+    ]
+  }
+}
